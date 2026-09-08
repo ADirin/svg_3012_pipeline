@@ -13,7 +13,7 @@ public class SVG_3013_CC {
         double time= timeCal(speed,distance);
        return "distance: "+distance+" ,time: "+time+ ", speed: "+speed ;
     }
-
+ // test the functionality of the functions
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter the speed:");
